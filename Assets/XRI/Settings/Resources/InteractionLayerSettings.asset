@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - Teleport
-  - 
-  - 
-  - 
-  - 
-  - 
+  - TransparentFX
+  - Ignore Raycast
+  - Teletort
+  - Water
+  - UI
+  - Hover
   - 
   - 
   - 
